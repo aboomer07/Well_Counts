@@ -1,5 +1,7 @@
 # Count of Oil and Gas Wells in the US by County
 
+<a href = "http://nbviewer.jupyter.org/github/aboomer07/Well_Counts/blob/master/Oil_Gas.ipynb?flush_cache=False" target="_blank">Link to Notebook Viewer</a>
+
 ## Explanation of Project
 
 While working as an intern for an environmental economics organization, one of the projects I was a part of was a rangeland/cropland conservation project throughout several US states (Texas, Wyoming, New Mexico, Oklahoma, Colorado, Kansas, and Nebraska). The level of granularity for the project was at the county level, and we needed a way to differentiate the counties based on their oil and natural gas output.
